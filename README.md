@@ -1,16 +1,16 @@
-## Hi there 👋
+# Nikhil Kirtipal (nkirtipal)
 
-<!--
-**nkirtipal/nkirtipal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Researcher | Multiomics Integration | Machine Learning in Bioinformatics
 
-Here are some ideas to get you started:
+## Skills
+- Programming: R, Python, Bash
+- Bioinformatics Tools: Seurat, Bioconductor, Cytoscape
+- Data Analysis: scRNA-seq, Microbiome, Multiomics, Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Repository
+[scRNAseq_Seurat_Workflow](https://github.com/nkirtipal/scRNAseq_Seurat_Workflow)  
+A reproducible workflow for single-cell RNA-seq analysis using Seurat, including QC, normalization, integration, clustering, and cell type annotation.
+
+## Contact
+- LinkedIn: 
+
