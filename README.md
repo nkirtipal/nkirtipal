@@ -4,8 +4,9 @@ Researcher | Multiomics Integration | Machine Learning in Bioinformatics
 
 ## Skills
 - Programming: R, Python, Bash
-- Bioinformatics Tools: Seurat, Bioconductor, Cytoscape
-- Data Analysis: scRNA-seq, Microbiome, Multiomics, Machine Learning
+- High-performance computing: SLURM
+- Bioinformatics Tools: Seurat, Bioconductor, Cytoscape, DADA2, WGCNA, Scanpy, CellChat, Monocle, SCENIC, phyloseq
+- Data Analysis: Bulk RNA-seq, scRNA-seq, Microbiome, TCGA, GTEx, Xena, Multiomics, Machine Learning
 
 ## Featured Repository
 [scRNAseq_Seurat_Workflow](https://github.com/nkirtipal/scRNAseq_Seurat_Workflow)  
