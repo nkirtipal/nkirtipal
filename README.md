@@ -15,6 +15,7 @@ Research profile focused on multiomics integration, scRNA-seq, microbiome analys
 A reproducible workflow for single-cell RNA-seq analysis using Seurat, including QC, normalization, integration, clustering, and cell type annotation.
 
 [NikSeqRecur](https://github.com/nkirtipal/NikSeqRecur) is a recurrence-aware DNA sequence analysis framework designed for detecting approximate repeats, reverse-complement recurrences, and biologically meaningful mutation patterns in nucleotide sequences.
+
 ----
 ## Contact
 - LinkedIn: https://in.linkedin.com/in/dr-nikhilkkirtipal
