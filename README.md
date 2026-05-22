@@ -13,5 +13,5 @@ Researcher | Multiomics Integration | Machine Learning in Bioinformatics
 A reproducible workflow for single-cell RNA-seq analysis using Seurat, including QC, normalization, integration, clustering, and cell type annotation.
 
 ## Contact
-- LinkedIn: 
+- LinkedIn: https://in.linkedin.com/in/dr-nikhilkkirtipal
 
