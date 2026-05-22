@@ -1,6 +1,6 @@
 # Nikhil Kirtipal (nkirtipal)
 
-Researcher | Multiomics Integration | Machine Learning in Bioinformatics
+Research profile focused on multiomics integration, scRNA-seq, microbiome analysis, and computational bioinformatics workflows.
 
 ## Skills
 - Programming: R, Python, Bash
