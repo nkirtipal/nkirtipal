@@ -1,5 +1,5 @@
 ----
-# Nikhil K Kirtipal
+# Nikhil Kirtipal
 ----
 Research profile focused on multiomics integration, scRNA-seq, microbiome analysis, and computational bioinformatics workflows.
 ----
