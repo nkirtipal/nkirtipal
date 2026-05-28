@@ -1,7 +1,7 @@
 ---
 Nikhil Kirtipal
 ----
-Computational biology profile focused on multiomics integration, scRNA-seq, microbiome analysis, and bioinformatics workflows.
+Computational biologist working on multiomics integration, scRNA-seq, microbiome analysis, and bioinformatics workflows.
 ---
 ## Skills
 - Programming: R, Python, Bash
