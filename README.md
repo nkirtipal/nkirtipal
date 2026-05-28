@@ -5,9 +5,12 @@ Computational biologist working on multiomics integration, scRNA-seq, microbiome
 ---
 ## Skills
 - Programming: R, Python, Bash
-- High-performance computing: SLURM
-- Bioinformatics Tools: Seurat, Bioconductor, Cytoscape, DADA2, WGCNA, Scanpy, CellChat, Monocle, SCENIC, phyloseq
-- Data Analysis: Bulk RNA-seq, scRNA-seq, Microbiome, TCGA, GTEx, Xena, Multiomics, Machine Learning
+- HPC & Workflows: SLURM, Snakemake
+- Bioinformatics Tools: Seurat, Scanpy, Bioconductor, DADA2, phyloseq,
+  WGCNA, CellChat, Monocle, SCENIC, Cytoscape
+- Omics Methods: Bulk RNA-seq, scRNA-seq, Microbiome, Multiomics
+- Databases: TCGA, GTEx, Xena
+- Other: Machine Learning
 ---
 ## Featured Repository
 
