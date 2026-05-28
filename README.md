@@ -13,7 +13,15 @@ Computational biologist working on multiomics integration, scRNA-seq, microbiome
 - Databases: TCGA, GTEx, Xena
 - Other: Machine Learning
   
+---
+
+## GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkirtipal&show_icons=true)
+
+---
+
+## Background
 
 ---
 
