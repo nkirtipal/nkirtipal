@@ -1,5 +1,6 @@
 ---
-Nikhil Kirtipal
+# Nikhil Kirtipal
+
 ![](https://komarev.com/ghpvc/?username=nkirtipal&color=brightgreen&style=plastic)
 
 ---
