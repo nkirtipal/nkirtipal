@@ -17,7 +17,7 @@ Computational biologist working on multiomics integration, scRNA-seq, microbiome
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkirtipal&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkirtipal)
 
 ---
 
