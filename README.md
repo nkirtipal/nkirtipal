@@ -12,13 +12,6 @@ Computational biologist working on multiomics integration, scRNA-seq, microbiome
 - Omics Methods: Bulk RNA-seq, scRNA-seq, Microbiome, Multiomics
 - Databases: TCGA, GTEx, Xena
 - Other: Machine Learning
-  
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkirtipal)
-
 ---
 
 ## Background
