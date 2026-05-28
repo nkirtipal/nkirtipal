@@ -1,6 +1,6 @@
 ---
 Nikhil Kirtipal
-![](https://komarev.com/ghpvc/?username=nkirtipal&color=brightgreen&style=flat-square)
+![](https://komarev.com/ghpvc/?username=nkirtipal&color=brightgreen&style=plastic)
 
 ---
 Computational biologist working on multiomics integration, scRNA-seq, microbiome analysis, and bioinformatics workflows.
