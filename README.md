@@ -4,7 +4,7 @@
 ---
 Computational biologist working on multiomics integration, scRNA-seq, microbiome analysis, and bioinformatics workflows.
 ---
-## Skills
+## Skills 💻
 - Programming: R, Python, Bash
 - HPC & Workflows: SLURM, Snakemake
 - Bioinformatics Tools: Seurat, Scanpy, Bioconductor, DADA2, phyloseq,
@@ -14,19 +14,25 @@ Computational biologist working on multiomics integration, scRNA-seq, microbiome
 - Other: Machine Learning
 ---
 
-## Background
+## Background 🧬
 Wet-lab biologist turned computational researcher — 
 driven by biological questions, building tools and 
 pipelines whenever the biology demands it.
 
+<div align="center">
+
+**🌱 Self-learner by necessity — when biology asks, you figure it out.**
+
+</div>
+
 ---
-## Connect
+## Connect 💻
 - 💼 LinkedIn: https://in.linkedin.com/in/dr-nikhilkkirtipal
 - 🔬 ORCID: https://orcid.org/0000-0001-7422-3408
-- 📚Google Scholar: https://scholar.google.com/citations?user=m86BQsIAAAAJ&hl=en
+- 📚 Google Scholar: https://scholar.google.com/citations?user=m86BQsIAAAAJ&hl=en
 ---
 <div align="center">
 
-## 🚀 Always learning — from 🧪 pipettes to 🐍 pipelines!
+##  🧬 Always learning — from 🧪 pipettes to 🐍 pipelines!
 
 </div>
