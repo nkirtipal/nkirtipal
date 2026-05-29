@@ -21,7 +21,7 @@ pipelines whenever the biology demands it.
 
 <div align="center">
 
-**🌱 Self-learner by necessity — when biology asks, you figure it out.**
+**🌱 Self-learner by necessity — when biology asks, I figure it out.**
 
 </div>
 
