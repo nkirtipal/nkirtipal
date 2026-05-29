@@ -28,8 +28,8 @@ pipelines whenever the biology demands it.
 ---
 ## Connect 💻
 - 💼 LinkedIn: https://in.linkedin.com/in/dr-nikhilkkirtipal
-- 🔬 ORCID: https://orcid.org/0000-0001-7422-3408
-- 📚 Google Scholar: https://scholar.google.com/citations?user=m86BQsIAAAAJ&hl=en
+- 🆔 ORCID: https://orcid.org/0000-0001-7422-3408
+- 🎓 Google Scholar: https://scholar.google.com/citations?user=m86BQsIAAAAJ&hl=en
 ---
 <div align="center">
 
