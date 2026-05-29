@@ -15,7 +15,7 @@ Computational biologist working on multiomics integration, scRNA-seq, microbiome
 ---
 
 ## Background 🧬
-Wet-lab biologist turned computational researcher — 
+Wet-lab 🧪 biologist turned computational researcher — 
 driven by biological questions, building tools and 
 pipelines whenever the biology demands it.
 
