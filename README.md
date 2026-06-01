@@ -10,7 +10,8 @@ Computational biologist working on multiomics integration, scRNA-seq, microbiome
 - Bioinformatics Tools: Seurat, Scanpy, Bioconductor, DADA2, phyloseq,
   WGCNA, CellChat, Monocle, SCENIC, Cytoscape, bioBakery (MetaPhlAn, HUMAnN).
 - Omics Methods: Bulk RNA-seq, scRNA-seq, Microbiome, Multiomics
-- Databases: TCGA, GTEx, Xena
+- Databases: TCGA, GTEx, Xena, Metabolomics Workbench
+- Cancer Genomics: Mutation Analysis (MAF), Survival Analysis
 - Other: Machine Learning
 ---
 
