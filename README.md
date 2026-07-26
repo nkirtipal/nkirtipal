@@ -1,15 +1,10 @@
 ---
 # About Me ![Profile views](https://komarev.com/ghpvc/?username=nkirtipal&color=brightgreen&style=plastic)
+
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=m86BQsIAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/YOUR-ORCID-ID)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YOUR-PROFILE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-![Stats](https://YOUR-PROJECT.vercel.app/api?username=nkirtipal&show_icons=true&hide_border=true)
-## My GitHub Stats
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7422-3408)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dr-nikhilkkirtipal)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nkirtipal&show_icons=true)
-
-[![Streak](https://streak-stats.demolab.com?user=nkirtipal)](https://git.io/streak-stats)
 ---
 Computational biologist working on multiomics integration, scRNA-seq, microbiome analysis, and bioinformatics workflows.
 ---
