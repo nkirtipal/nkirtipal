@@ -1,5 +1,10 @@
 ---
 # About Me ![Profile views](https://komarev.com/ghpvc/?username=nkirtipal&color=brightgreen&style=plastic)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=m86BQsIAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/YOUR-ORCID-ID)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YOUR-PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:you@example.com)
 ---
 Computational biologist working on multiomics integration, scRNA-seq, microbiome analysis, and bioinformatics workflows.
 ---
