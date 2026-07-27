@@ -9,9 +9,7 @@
 </p>
 
 ---
-
 Computational biologist working on multiomics integration, scRNA-seq, microbiome analysis, and bioinformatics workflows.
-
 ---
 
 ## Skills 💻
