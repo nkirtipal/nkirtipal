@@ -7,9 +7,13 @@
 <a href="https://www.researchgate.net/profile/Nikhil-K-Kirtipal"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
 <a href="https://www.linkedin.com/in/dr-nikhilkkirtipal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
+
 ---
+
 Computational biologist working on multiomics integration, scRNA-seq, microbiome analysis, and bioinformatics workflows.
+
 ---
+
 ## Skills 💻
 - Programming: R, Python, Bash
 - HPC & Workflows: SLURM, Snakemake
