@@ -107,12 +107,6 @@ Biological Question
 
 Wet-lab 🧪 biologist turned computational researcher — driven by biological questions, building tools and pipelines whenever the biology demands it.
 
-<div align="center">
-
-**🌱 Self-learner by necessity — when biology asks, I figure it out.**
-
-</div>
-
 ---
 
 <div align="center">
