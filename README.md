@@ -4,8 +4,6 @@
 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=nkirtipal&color=2DD4BF&style=for-the-badge)
-
 <a href="https://scholar.google.com/citations?user=m86BQsIAAAAJ&hl=en">
 <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
 </a>
