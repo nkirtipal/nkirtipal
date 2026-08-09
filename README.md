@@ -7,7 +7,7 @@
 <a href="https://scholar.google.com/citations?user=m86BQsIAAAAJ&hl=en">
 <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar">
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/dr-nikhilkkirtipal">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
