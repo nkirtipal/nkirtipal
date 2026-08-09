@@ -63,6 +63,10 @@ My work focuses on using computational biology, multi-omics and machine learning
 
 ## 🧪 Computational Biology Workflow
 
+<div align="center">
+<table>
+<tr><td align="left">
+<pre>
 ```text
 Biological Question
         │
@@ -99,6 +103,10 @@ Biological Question
         │
         ▼
       Insight
+</pre>
+</td></tr>
+</table>
+</div>
 ```
 
 ---
