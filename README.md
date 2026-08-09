@@ -5,19 +5,19 @@
 <br>
 
 <a href="https://scholar.google.com/citations?user=m86BQsIAAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=plastic&logo=googlescholar&logoColor=white" alt="Google Scholar">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/dr-nikhilkkirtipal">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="https://orcid.org/0000-0001-7422-3408">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=plastic&logo=orcid&logoColor=white" alt="ORCID">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID">
 </a>
 &nbsp;
 <a href="https://www.researchgate.net/profile/Nikhil-K-Kirtipal">
-<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=plastic&logo=researchgate&logoColor=white" alt="ResearchGate">
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate">
 </a>
 
 </div>
