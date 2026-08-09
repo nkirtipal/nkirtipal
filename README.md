@@ -63,17 +63,18 @@ My work focuses on using computational biology, multi-omics and machine learning
 
 ## 🧪 Computational Biology Workflow
 
+
+
 <div align="center">
 <table>
 <tr><td align="left">
 <pre>
-```text
 Biological Question
-        │
-        ▼
+          │
+          ▼
    Data Generation
-        │
-        ▼
+          │
+          ▼
  ┌─────────────────────┐
  │ Multi-Omics Data    │
  │                     │
@@ -82,14 +83,14 @@ Biological Question
  │ Microbiome          │
  │ Metagenomics        │
  └─────────────────────┘
-        │
-        ▼
+          │
+          ▼
  Data Processing & QC
-        │
-        ▼
+          │
+          ▼
  Statistical Analysis
-        │
-        ▼
+          │
+          ▼
  ┌─────────────────────┐
  │ Computational       │
  │ Modeling            │
@@ -97,17 +98,12 @@ Biological Question
  │ ML · Network        │
  │ Regulatory Biology  │
  └─────────────────────┘
-        │
-        ▼
+          │
+          ▼
  Biological Interpretation
-        │
-        ▼
+          │
+          ▼
       Insight
-</pre>
-</td></tr>
-</table>
-</div>
-```
 
 ---
 
