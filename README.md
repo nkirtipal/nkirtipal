@@ -67,7 +67,7 @@ My work focuses on using computational biology, multi-omics and machine learning
 
 <div align="center">
 <table>
-<tr><td align="center">
+<tr><td align="left">
 <pre>
 Biological Question
           │
