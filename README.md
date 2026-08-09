@@ -9,15 +9,15 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/dr-nikhilkkirtipal">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="https://orcid.org/0000-0001-7422-3408">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=plastic&logo=orcid&logoColor=white" alt="ORCID">
 </a>
 &nbsp;
 <a href="https://www.researchgate.net/profile/Nikhil-K-Kirtipal">
-<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate">
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=plastic&logo=researchgate&logoColor=white" alt="ResearchGate">
 </a>
 
 </div>
