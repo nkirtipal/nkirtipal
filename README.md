@@ -47,7 +47,7 @@
 | **Single-cell** | Seurat · Scanpy · SingleR · CellChat · SCENIC · Monocle |
 | **Bulk RNA-seq** | DESeq2 · WGCNA |
 | **Microbiome** | DADA2 · phyloseq · MMUPHin · MaAsLin2 |
-| **Metagenomics** | MetaPhlAn · HUMAnN · bioBakery |
+| **Metagenomics** | MetaPhlAn · HUMAnN — bioBakery |
 | **Machine Learning** | Random Forest · XGBoost · SHAP |
 | **Deep Learning** | PyTorch · CNN |
 | **Dimensionality Reduction** | PCA · PCoA · UMAP |
