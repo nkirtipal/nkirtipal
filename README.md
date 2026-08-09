@@ -1,5 +1,5 @@
 ---
-# About Me ![Profile views](https://komarev.com/ghpvc/?username=nkirtipal&color=brightgreen&style=plastic)
+# About Me 
 
 <p align="left">
 <a href="https://scholar.google.com/citations?user=m86BQsIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
