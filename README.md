@@ -67,7 +67,7 @@ My work focuses on using computational biology, multi-omics and machine learning
 
 <div align="center">
 <table>
-<tr><td align="left">
+<tr><td align="center">
 <pre>
 Biological Question
           │
@@ -106,11 +106,8 @@ Biological Question
       Insight
 
 ---
-
 ## 🧬 Background
-
 Wet-lab 🧪 biologist turned computational researcher — driven by biological questions, building tools and pipelines whenever the biology demands it.
-
 ---
 
 <div align="center">
