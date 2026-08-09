@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Nik.svg" width="100%" alt="Nikhil K Kirtipal - Computational Biology">
+<img src="assets/Nik.png" width="100%" alt="Nikhil K Kirtipal - Computational Biology">
 
 <br>
 
