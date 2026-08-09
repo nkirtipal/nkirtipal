@@ -28,18 +28,15 @@
 
 ## 🔬 Current Research
 
-My work focuses on using computational biology, multi-omics and machine learning to investigate biological mechanisms underlying human disease.
+### *Taking human disease apart across layers — single cells, microbes, and molecules.*
 
 ### Current areas
 
-- 🫁 **Respiratory disease and COPD**
-- 🧬 **Respiratory microbiome**
+- 🫁 **Respiratory disease and COPD** 
 - 🔬 **Single-cell transcriptomics**
 - 🧪 **Multi-omics integration**
-- 🤖 **Machine learning for biological prediction**
-- 🧠 **Interpretable AI and biological discovery**
+- 🤖 **Interpretable machine learning for biological discovery**
 - 🧫 **Disease and cancer genomics**
-
 ---
 
 ## 💻 Computational Toolkit
