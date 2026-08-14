@@ -28,7 +28,7 @@
 ### Current areas
 
 - 🫁 **Respiratory disease and COPD** 
-- 🔬 **Single-cell transcriptomics**
+- 🫧 **Single-cell transcriptomics**  
 - 🧪 **Multi-omics integration**
 - 🤖 **Interpretable machine learning for biological discovery**
 - 🧫 **Disease and cancer genomics**
